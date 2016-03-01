@@ -1,1 +1,3 @@
 puts "Here is a string"
+
+anything = gets.chomp
